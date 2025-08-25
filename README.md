@@ -42,27 +42,6 @@ python "ATM Interface.py"
 
 ---
 
-📌 Features
-
-✅ User Authentication (Account Number & PIN)
-
-✅ Balance Inquiry
-
-✅ Deposit Money
-
-✅ Withdraw Money (with balance check)
-
-✅ Exit the application
-
----
-
-🚀 Getting Started
-1️⃣ Prerequisites
-
-Python 3.x installed on your system
-
----
-
 🖥️ Usage
 
 Enter your account number and PIN when prompted.
