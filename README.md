@@ -1,10 +1,11 @@
-ATM Interface Using Python
+# 🏧 ATM Interface Using Python
 
-This project is created as part of my internship task at Brainwave Matrix Solutions.
+This project was created as part of my internship task at *Brainwave Matrix Solutions*.  
+It is a simple **ATM interface program** that allows users to perform basic banking operations after PIN authentication.
 
 ---
 
-💻 Project Description
+# 💻 Project Description
 
 This is a simple ATM interface system built using Python. It includes functionalities such as:
 
@@ -20,7 +21,7 @@ Exit option
 
 ---
 
-🛠 Technologies Used
+# 🛠 Technologies Used
 
 Python
 
@@ -30,7 +31,7 @@ GitHub
 
 ---
 
-🚀 How to Run
+# 🚀 How to Run
 
 Clone this repository
 
@@ -42,7 +43,7 @@ python "ATM Interface.py"
 
 ---
 
-🖥️ Usage
+# 🖥️ Usage
 
 Enter your account number and PIN when prompted.
 
@@ -60,7 +61,7 @@ Choose from the ATM menu options:
 
 ---
 
-📊 Example Output
+# 📊 Example Output
 Welcome to the ATM!
 Enter your account number: 123456
 Enter your PIN: 1234
@@ -75,7 +76,7 @@ Balance: 1000
 
 ---
 
-🛠️ Future Enhancements
+# 🛠️ Future Enhancements
 
 🔹 Support multiple users with file/database storage
 
