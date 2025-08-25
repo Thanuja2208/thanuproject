@@ -9,37 +9,37 @@ It is a simple **ATM interface program** that allows users to perform basic bank
 
 This is a simple ATM interface system built using Python. It includes functionalities such as:
 
-User login (Account Number & PIN)
+🔹User login (Account Number & PIN)
 
-Balance inquiry
+🔹Balance inquiry
 
-Deposit money
+🔹Deposit money
 
-Withdraw money (with balance check)
+🔹Withdraw money (with balance check)
 
-Exit option
+🔹Exit option
 
 ---
 
 # 🛠 Technologies Used
 
-Python
+1. Python
 
-Visual Studio Code
+2. Visual Studio Code
 
-GitHub
+3. GitHub
 
 ---
 
 # 🚀 How to Run
 
-Clone this repository
+→ Clone this repository
 
-Open terminal
+→ Open terminal
 
-Run the file using:
+→ Run the file using:
 
-python "ATM Interface.py"
+→ python "ATM Interface.py"
 
 ---
 
@@ -55,8 +55,11 @@ Example account numbers:
 Choose from the ATM menu options:
 
 1 → Check Balance
+
 2 → Deposit Money
+
 3 → Withdraw Money
+
 4 → Exit
 
 ---
