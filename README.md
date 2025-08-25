@@ -8,15 +8,14 @@ It allows users to authenticate with their account number and PIN, and then perf
 📌 Features
 
 ✅ User Authentication (Account Number & PIN)
+
 ✅ Balance Inquiry
+
 ✅ Deposit Money
+
 ✅ Withdraw Money (with balance check)
+
 ✅ Exit the application
-
----
-
-📂 Project Structure
-ATM Interface.py   # Main program file containing ATM class and logic
 
 ---
 
@@ -68,6 +67,9 @@ Balance: 1000
 🛠️ Future Enhancements
 
 🔹 Support multiple users with file/database storage
+
 🔹 Add transaction history
+
 🔹 Implement GUI using Tkinter or PyQt
+
 🔹 Add more banking features like fund transfer
