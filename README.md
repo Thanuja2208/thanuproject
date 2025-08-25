@@ -2,6 +2,8 @@ ATM Interface Using Python
 
 This project is created as part of my internship task at Brainwave Matrix Solutions.
 
+---
+
 💻 Project Description
 
 This is a simple ATM interface system built using Python. It includes functionalities such as:
@@ -16,6 +18,8 @@ Withdraw money (with balance check)
 
 Exit option
 
+---
+
 🛠 Technologies Used
 
 Python
@@ -24,9 +28,7 @@ Visual Studio Code
 
 GitHub
 
-📁 Files
-
-ATM Interface.py — Main program file containing ATM class and logic
+---
 
 🚀 How to Run
 
@@ -37,6 +39,8 @@ Open terminal
 Run the file using:
 
 python "ATM Interface.py"
+
+---
 
 📌 Features
 
@@ -56,11 +60,6 @@ python "ATM Interface.py"
 1️⃣ Prerequisites
 
 Python 3.x installed on your system
-
----
-
-2️⃣ Run the Program
-python "ATM Interface.py"
 
 ---
 
