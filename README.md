@@ -3,6 +3,8 @@
 This is a simple ATM Interface program implemented in Python.
 It allows users to authenticate with their account number and PIN, and then perform basic banking operations like checking balance, depositing money, and withdrawing money.
 
+---
+
 📌 Features
 
 ✅ User Authentication (Account Number & PIN)
@@ -11,16 +13,24 @@ It allows users to authenticate with their account number and PIN, and then perf
 ✅ Withdraw Money (with balance check)
 ✅ Exit the application
 
+---
+
 📂 Project Structure
 ATM Interface.py   # Main program file containing ATM class and logic
+
+---
 
 🚀 Getting Started
 1️⃣ Prerequisites
 
 Python 3.x installed on your system
 
+---
+
 2️⃣ Run the Program
 python "ATM Interface.py"
+
+---
 
 🖥️ Usage
 
@@ -37,6 +47,8 @@ Choose from the ATM menu options:
 2 → Deposit Money
 3 → Withdraw Money
 4 → Exit
+
+---
 
 📊 Example Output
 Welcome to the ATM!
