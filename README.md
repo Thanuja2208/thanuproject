@@ -1,9 +1,42 @@
-🏦 ATM Interface in Python
+ATM Interface Using Python
 
-This is a simple ATM Interface program implemented in Python.
-It allows users to authenticate with their account number and PIN, and then perform basic banking operations like checking balance, depositing money, and withdrawing money.
+This project is created as part of my internship task at Brainwave Matrix Solutions.
 
----
+💻 Project Description
+
+This is a simple ATM interface system built using Python. It includes functionalities such as:
+
+User login (Account Number & PIN)
+
+Balance inquiry
+
+Deposit money
+
+Withdraw money (with balance check)
+
+Exit option
+
+🛠 Technologies Used
+
+Python
+
+Visual Studio Code
+
+GitHub
+
+📁 Files
+
+ATM Interface.py — Main program file containing ATM class and logic
+
+🚀 How to Run
+
+Clone this repository
+
+Open terminal
+
+Run the file using:
+
+python "ATM Interface.py"
 
 📌 Features
 
