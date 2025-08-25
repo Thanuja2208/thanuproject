@@ -50,6 +50,7 @@ Enter your account number and PIN when prompted.
 Example account numbers:
 
 123456 (PIN: 1234, Balance: 1000)
+
 987654 (PIN: 5678, Balance: 500)
 
 Choose from the ATM menu options:
@@ -66,7 +67,9 @@ Choose from the ATM menu options:
 
 # 📊 Example Output
 Welcome to the ATM!
+
 Enter your account number: 123456
+
 Enter your PIN: 1234
 
 --- ATM Menu ---
