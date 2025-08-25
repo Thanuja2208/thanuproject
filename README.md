@@ -78,6 +78,7 @@ Enter your PIN: 1234
 3. Withdraw
 4. Exit
 Choose option: 1
+
 Balance: 1000
 
 ---
